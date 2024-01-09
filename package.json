@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.html",
   "scripts": {
+    "clone": "git clone https://github.com/Darkangel1470/three-Portfolio.git",
     "push": "git add * && git commit -m $M && git push",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
